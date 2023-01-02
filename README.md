@@ -43,7 +43,9 @@ After all the heavy lifting I was left with two lists namely "high AR client lis
 
 3. out of 494 unique clients registered with the gym, 97 clients were flexible with their workout schedules through out their subscription validity. out of the 97 flexible clients 37 clients had an active subscription along with inclination towards the afternoon slot.meaning this 37 clients preferred afternoon slot but somehow ocasionally took part in the congestion at peak hours.
 
-4. The business offered a monsoon discount in the month of june, the discount only lead to more overcrowding, no significant increase in revenue/profit and the clients who were attracted with the offers sisnt stick around so much.
+4. The business offered a monsoon discount in the month of june, the discount only lead to more overcrowding, no significant increase in revenue/profit and the clients who were attracted with the offers didnt stick around so much.
+
+5. I have ran a simulation of all the digital logs where i asumed that all 97 flexible clients strictly visited the gym in the afternoon slot, the overcrowding reduced by 15%
 
 # Recommendations
 
@@ -53,4 +55,10 @@ After all the heavy lifting I was left with two lists namely "high AR client lis
 
 	Solving The Overcrowding issue is a marathon and not a sprint, a one-time solution is not enough to deal with this problem, active flexible clients had to be identified and contacted every month for as long as any significant results are seen.
 
+# need more ??
 
+To get a graphical representation of the business and an overall idea about the analysis, refer to the ppt called "track case study.ppt" in the repo.
+
+To gain an indepth understanding of the 3 code files, take a look at "The Track Fitness Club Case Memo - 3" inside the case study folder in the repo. Before running any of the code files make sure the 3 files inside the "clean data" folder are in the same directory as the code files.
+
+there 3 python notebook files with names clear enough to dictate what they do.
