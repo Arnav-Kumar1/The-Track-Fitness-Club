@@ -51,6 +51,6 @@ After all the heavy lifting I was left with two lists namely "high AR client lis
 
 	To avoid overcrowding at peak hours the business needs to send an SMS to all the special flexible clients that I have identified thus alerting them of the special personalized offers exclusively made available for them
 
-	Solving The Overcrowding issue is a marathon and not a sprint, a one-time solution is not enough to deal with this problem, special flexible clients had to be identified and contacted every month for as long as any significant results are seen.
+	Solving The Overcrowding issue is a marathon and not a sprint, a one-time solution is not enough to deal with this problem, active flexible clients had to be identified and contacted every month for as long as any significant results are seen.
 
 
