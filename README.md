@@ -1,5 +1,10 @@
-# The Track Fitness Club
-As a student looking to develop my skills in data analysis and make a tangible impact, I approached The Track Fitness Club, a struggling gymnasium located in my hometown, and convinced the owner to allow me to comb through the business's raw data, I analyzed various aspects of the business and identified underlying problems that may be hurting the business's profit-making capacity. I then developed data-driven recommendations for improvement and presented these findings in a final report.
+# Executive summary
+
+The Track fitness gym, located in Chandrapur, Maharashtra, has struggled with issues that have caused fluctuations in revenue and made it difficult for the gym to achieve its financial goals. This data analysis project aims to identify the root causes of these issues and provide recommendations for improvement through analysis of data on membership demographics, usage patterns, and client feedback. The project aims to provide the gym owner with valuable insights and recommendations for improving retention and increasing revenue.
+
+# Data Analysis Project: Leveraging data analysis to drive business improvement and boost profits
+
+As a student who is eager to develop my data analysis abilities and make a tangible impact, I approached The Track Fitness Club, a struggling gymnasium located in my hometown, and convinced the owner to allow me to comb through the business's raw data, I analyzed various aspects of the business and identified underlying problems that may be hurting the business's profit-making capacity. I then developed data-driven recommendations for improvement and presented these findings in a final report.
 
 The proposed solutions focus on increasing profits and address specific areas of the business identified through the analysis. I am proud to have been able to help The Track Fitness Club identify areas for improvement and develop strategies to increase profits.
 
@@ -26,4 +31,26 @@ The client retention rate was a concern because it showed that the gym was losin
 
 1. To improve retention , I compiled a list of "High AR clients" ( Adherence Rate) - individuals who have demonstrated a high level of commitment to the gym through consistent use of facilities over a period of at least six months. By increasing the number of clients on this list, we can work towards improving retention rates. To do this, we can examine the personally identifiable information (PII.xlsx) of these high AR clients to identify differences between them and other clients. 
 
-2. To address overcrowding at the gym, I identified clients with flexible workout schedule who could be encouraged to visit during less popular hours through personalized offers. By encouraging these individuals to work out during less crowded times, we can help to alleviate congestion during peak hours and improve the overall customer experience. These flexible clients can be identified by analyzing the PIPO.xlsx files, which contain digital logs of every client
+2. To address overcrowding at the gym, I identified clients with flexible workout schedule who could be encouraged to visit during less popular hours through personalized offers. By encouraging these individuals to work out during less crowded times, we can help to alleviate congestion during peak hours and improve the overall customer experience. These flexible clients can be identified by analyzing the PIPO.xlsx files, which contain digital entry exit logs of every client
+
+# "Results"
+
+After all the heavy lifting I was left with two lists namely "high AR client list" and "flexible client list", I put two and two together and came up with the following results:
+
+1. 19% of the total clients were registered with personal trainers through the history of the 12 month data collection, whereas 69% of the 35 high AR clients  were registered with the personal trainers. It is evident that the difference between a High AR client and other clients was that most of them opted for personal trainers.
+
+2. There are about 22% female clients registered with the gym, The % of females dropped to 14% within the high AR client list, This can be th result of not having a female instructor at the gym.
+
+3. out of 494 unique clients registered with the gym, 97 clients were flexible with their workout schedules through out their subscription validity. out of the 97 flexible clients 37 clients had an active subscription along with inclination towards the afternoon slot.meaning this 37 clients preferred afternoon slot but somehow ocasionally took part in the congestion at peak hours.
+
+4. The business offered a monsoon discount in the month of june, the discount only lead to more overcrowding, no significant increase in revenue/profit and the clients who were attracted with the offers sisnt stick around so much.
+
+# Recommendations
+
+	The gym needs to make efforts towards getting a personal trainer hired by the client at the time of client registration, when a new client enters the gym, they can be convinced to hire a personal trainer, hence my recommendation to the business will be to run a subscription + personal training offer rather than investing in monsoon or summer offers which are a waste of capital.
+
+	To avoid overcrowding at peak hours the business needs to send an SMS to all the special flexible clients that I have identified thus alerting them of the special personalized offers exclusively made available for them
+
+	Solving The Overcrowding issue is a marathon and not a sprint, a one-time solution is not enough to deal with this problem, special flexible clients had to be identified and contacted every month for as long as any significant results are seen.
+
+
