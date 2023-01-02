@@ -13,7 +13,7 @@ The proposed solutions focus on increasing profits and address specific areas of
  The raw data was preprocessed using Microsoft Excel and Python as necessary. The data cleaning process included adding and removing features as needed, removing records that were not relevant to the analysis, and changing data types.
 
 
- # "Navigating Turbulent Waters: The Current Challenges Facing Our Fitness business"
+ # Navigating Turbulent Waters: The Current Challenges Facing Our Fitness business
 
 After organizing the data, I created visualizations to highlight key markers like monthly revenue, new clients per month, and busiest time slots for workouts. This revealed two significant issues.
 
@@ -24,8 +24,10 @@ The client retention rate was a concern because it showed that the gym was losin
 
 # "Effective strategies for improving retention and managing overcrowding"
 
+The below flow chart indicates a overall birds eye poin to view about the strategy to solve these problems
 
 
+![Alt text](../../Users/arnav/OneDrive/Desktop/Screenshot_20230102_113928.png)
 
 
 
