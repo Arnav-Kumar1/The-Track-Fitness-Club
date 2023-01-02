@@ -22,8 +22,11 @@ After organizing the data, I created visualizations to highlight key markers lik
 
 The client retention rate was a concern because it showed that the gym was losing a significant number of clients over time. The overcrowding issue was also problematic because it could lead to reduced customer satisfaction and even safety concerns. To address these issues, I set out to find a practical solution that I could easily pitch to the business owner. My goal was to find a simple yet effective solution to improve retention and manage capacity at the gym.
 
-# "Effective strategies for improving retention and managing overcrowding"
+# Effective strategies for improving retention and managing overcrowding
 
+below is the flowchart which gives a better understanding of the strategy
+
+![Screenshot_20230102_113928](https://user-images.githubusercontent.com/58729106/210266371-63c9fea0-9860-463a-8c76-f0261340510c.png)
 
 
 
