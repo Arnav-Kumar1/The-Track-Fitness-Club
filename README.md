@@ -1,12 +1,12 @@
-# Executive summary
-
-The Track fitness gym, located in Chandrapur, Maharashtra, has struggled with issues that have caused fluctuations in revenue and made it difficult for the gym to achieve its financial goals. This data analysis project aims to identify the root causes of these issues and provide recommendations for improvement through analysis of data on membership demographics, usage patterns, and client feedback. The project aims to provide the gym owner with valuable insights and recommendations for improving retention and increasing revenue.
-
 # Data Analysis Project: Leveraging data analysis to drive business improvement and boost profits
 
 As a student who is eager to develop my data analysis abilities and make a tangible impact, I approached The Track Fitness Club, a struggling gymnasium located in my hometown, and convinced the owner to allow me to comb through the business's raw data, I analyzed various aspects of the business and identified underlying problems that may be hurting the business's profit-making capacity. I then developed data-driven recommendations for improvement and presented these findings in a final report.
 
 The proposed solutions focus on increasing profits and address specific areas of the business identified through the analysis. I am proud to have been able to help The Track Fitness Club identify areas for improvement and develop strategies to increase profits.
+
+# Executive summary
+
+The Track fitness gym, located in Chandrapur, Maharashtra, has struggled with issues that have caused fluctuations in revenue and made it difficult for the gym to achieve its financial goals. This data analysis project aims to identify the root causes of these issues and provide recommendations for improvement through analysis of data on membership demographics, usage patterns, and client feedback. The project aims to provide the gym owner with valuable insights and recommendations for improving retention and increasing revenue.
 
  # Data
 
