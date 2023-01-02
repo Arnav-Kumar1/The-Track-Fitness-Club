@@ -49,9 +49,9 @@ After all the heavy lifting I was left with two lists namely "high AR client lis
 
 # Recommendations
 
-	The gym needs to make efforts towards getting a personal trainer hired by the client at the time of client registration, when a new client enters the gym, they can be convinced to hire a personal trainer, hence my recommendation to the business will be to run a subscription + personal training offer rather than investing in monsoon or summer offers which are a waste of capital.
+	The gym needs to make efforts towards getting a personal trainer hired by the client at the time of client registration, when a new client enters the gym, they can be convinced to hire a personal trainer, hence my recommendation to the business was to run a subscription + personal training offer rather than investing in monsoon or summer offers which are a waste of capital.
 
-	To avoid overcrowding at peak hours the business needs to send an SMS to all the special flexible clients that I have identified thus alerting them of the special personalized offers exclusively made available for them
+	To avoid overcrowding at peak hours the business needs to send an SMS to all the active flexible noon slot prefering clients that I have identified thus alerting them of the special personalized offers exclusively made available for them
 
 	Solving The Overcrowding issue is a marathon and not a sprint, a one-time solution is not enough to deal with this problem, active flexible clients had to be identified and contacted every month for as long as any significant results are seen.
 
