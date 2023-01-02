@@ -7,8 +7,8 @@ The proposed solutions focus on increasing profits and address specific areas of
 
  "The data for this analysis was obtained from the gym's point of sale management software. I approached the reception desk, explained the situation to the staff, and set up a meeting with the business owner. I was able to convince the owner to give me access to the data for a period of 8 months, which included information about invoices generated, client personal information, and entry-exit digital logs. There were a total of three files collected: 
  1. 'invoice entries raw.xlsx', which contained digital entries for every invoice generated (1014 records with 17 features)
- 2. 'PIPO raw.xlsx', which included digital logs of every successful/unsuccessful attempt to enter the workout space (about 32,000 recorded observations with 3 columns)
- 3. 'PII raw.xlsx', which included personal information for clients (495 observations with 6 features). 
+ 2. 'PIPO raw.xlsx', (Punch-In-Punch Out) which included digital logs of every successful/unsuccessful attempt to enter the workout space (about 32,000 recorded observations with 3 columns)
+ 3. 'PII raw.xlsx', (Personally Identifiabe Information) which included personal information for clients (495 observations with 6 features). 
  
  The raw data was preprocessed using Microsoft Excel and Python as necessary. The data cleaning process included adding and removing features as needed, removing records that were not relevant to the analysis, and changing data types.
 
