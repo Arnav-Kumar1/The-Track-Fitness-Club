@@ -35,23 +35,23 @@ The client retention rate was a concern because it showed that the gym was losin
 
 # "Results"
 
-After all the heavy lifting I was left with two lists namely "high AR client list" and "flexible client list", I put two and two together and came up with the following results:
+After completing the data analysis, I was left with two lists: the "high AR client list" and the "flexible client list". Through this analysis, I discovered the following:
 
-1. 19% of the total clients were registered with personal trainers through the history of the 12 month data collection, whereas 69% of the 35 high AR clients  were registered with the personal trainers. It is evident that the difference between a High AR client and other clients was that most of them opted for personal trainers.
+1. 19% of all clients were registered with personal trainers during the 12 month data collection period, while 69% of the 35 high AR clients were registered with personal trainers. This indicates that high AR clients are more likely to opt for personal trainers.
 
-2. There are about 22% female clients registered with the gym, The % of females dropped to 14% within the high AR client list, This can be th result of not having a female instructor at the gym.
+2. 22% of all clients registered with the gym are female, while the percentage of females drops to 14% within the high AR client list. This could be due to the lack of a female instructor at the gym.
 
-3. out of 494 unique clients registered with the gym, 97 clients were flexible with their workout schedules through out their subscription validity. out of the 97 flexible clients 37 clients had an active subscription along with inclination towards the afternoon slot.meaning this 37 clients preferred afternoon slot but somehow ocasionally took part in the congestion at peak hours.
+3. Out of 494 unique clients registered with the gym, 97 clients were flexible with their workout schedules throughout their subscription period. Of these 97 flexible clients, 37 preferred the afternoon slot but occasionally participated in the congestion at peak hours.
 
-4. The business offered a monsoon discount in the month of june, the discount only lead to more overcrowding, no significant increase in revenue/profit and the clients who were attracted with the offers didnt stick around so much.
+4. The business offered a monsoon discount in June, which only led to more overcrowding and no significant increase in revenue/profit. Additionally, clients attracted by the offer did not stick around for long.In fact the biggest client drop  was observed in the month of june where 51% of clients attracted by the offer left the gym by the next month
 
-5. I have ran a simulation of all the digital logs where i asumed that all 97 flexible clients strictly visited the gym in the afternoon slot, the overcrowding reduced by 15%
+I ran a simulation of all digital logs, assuming that all 97 flexible clients strictly visited the gym in the afternoon slot. This reduced overcrowding by 15%."
 
 # Recommendations
 
 	The gym needs to make efforts towards getting a personal trainer hired by the client at the time of client registration, when a new client enters the gym, they can be convinced to hire a personal trainer, hence my recommendation to the business was to run a subscription + personal training offer rather than investing in monsoon or summer offers which are a waste of capital.
 
-	To avoid overcrowding at peak hours the business needs to send an SMS to all the active flexible noon slot prefering clients that I have identified thus alerting them of the special personalized offers exclusively made available for them
+	To avoid overcrowding at peak hours the business needs to send an SMS to all the active flexible noon slot prefering clients that I have identified thus alerting them of the special personalized offers exclusively made available for them which motivates them to visit the gym in less popular slots
 
 	Solving The Overcrowding issue is a marathon and not a sprint, a one-time solution is not enough to deal with this problem, active flexible clients had to be identified and contacted every month for as long as any significant results are seen.
 
