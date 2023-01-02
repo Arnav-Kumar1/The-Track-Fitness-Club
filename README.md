@@ -24,10 +24,6 @@ The client retention rate was a concern because it showed that the gym was losin
 
 # Effective strategies for improving retention and managing overcrowding
 
-below is the flowchart which gives a better understanding of the strategy
-
-![Screenshot_20230102_113928](https://user-images.githubusercontent.com/58729106/210266371-63c9fea0-9860-463a-8c76-f0261340510c.png)
-
 
 
 
