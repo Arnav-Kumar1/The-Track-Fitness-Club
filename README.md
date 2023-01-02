@@ -59,6 +59,6 @@ After all the heavy lifting I was left with two lists namely "high AR client lis
 
 To get a graphical representation of the business data and an overall idea about the analysis, refer to the ppt called "track case study.ppt" in the repo.
 
-To gain an indepth understanding of the 3 code files, take a look at "The Track Fitness Club Case Memo - 3" inside the case study folder in the repo. Before running any of the code files make sure the 3 files inside the "clean data" folder are in the same directory as the code files.
+There 3 python notebook files with names clear enough to dictate what they do.To gain an indepth understanding of the 3 code files, take a look at "The Track Fitness Club Case Memo - 3" inside the "case study" folder in the repo. Before running any of the code files make sure the 3 files inside the "clean data" folder are in the same directory as the code files.
 
-there 3 python notebook files with names clear enough to dictate what they do.
+
