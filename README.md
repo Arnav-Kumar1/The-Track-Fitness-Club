@@ -24,5 +24,6 @@ The client retention rate was a concern because it showed that the gym was losin
 
 # "Effective strategies for improving retention and managing overcrowding"
 
+1. To improve retention , I compiled a list of "High AR clients" ( Adherence Rate) - individuals who have demonstrated a high level of commitment to the gym through consistent use of facilities over a period of at least six months. By increasing the number of clients on this list, we can work towards improving retention rates. To do this, we can examine the personally identifiable information (PII.xlsx) of these high AR clients to identify differences between them and other clients. 
 
-![strategy Flow chart](../../Users/arnav/OneDrive/Desktop/Screenshot_20230102_113928.png)
+2. To address overcrowding at the gym, I identified clients with flexible workout schedule who could be encouraged to visit during less popular hours through personalized offers. By encouraging these individuals to work out during less crowded times, we can help to alleviate congestion during peak hours and improve the overall customer experience. These flexible clients can be identified by analyzing the PIPO.xlsx files, which contain digital logs of every client
