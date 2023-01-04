@@ -37,7 +37,7 @@ The client retention rate was a concern because it showed that the gym was losin
 
 After completing the data analysis, I was left with two lists: the "high AR client list" and the "flexible client list". Through this analysis, I discovered the following:
 
-1. 19% of all clients were registered with personal trainers during the 12 month data collection period, while 69% of the 35 high AR clients were registered with personal trainers. This indicates that high AR clients are more likely to opt for personal trainers.
+1. 19% of all clients were registered with personal trainers during the 8 month data collection period, while 69% of the 35 high AR clients were registered with personal trainers. This indicates that high AR clients are more likely to opt for personal trainers.
 
 2. 22% of all clients registered with the gym are female, while the percentage of females drops to 14% within the high AR client list. This could be due to the lack of a female instructor at the gym.
 
