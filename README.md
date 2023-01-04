@@ -39,7 +39,7 @@ After completing the data analysis, I was left with two lists: the "high AR clie
 
 1. 19% of all clients were registered with personal trainers during the 8 month data collection period, while 69% of the 35 high AR clients were registered with personal trainers. This indicates that high AR clients are more likely to opt for personal trainers.
 
-2. 22% of all clients registered with the gym are female, while the percentage of females drops to 14% within the high AR client list. This could be due to the lack of a female instructor at the gym.
+2. 22% of all clients registered with the gym are females, while the percentage of females drops to 14% within the high AR client list. This could be due to the lack of a female instructor at the gym.
 
 3. Out of 494 unique clients registered with the gym, 97 clients were flexible with their workout schedules throughout their subscription period. Of these 97 flexible clients, 37 preferred the afternoon slot but occasionally participated in the congestion at peak hours.
 
