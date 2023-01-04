@@ -6,7 +6,7 @@ The proposed solutions focus on increasing profits and address specific areas of
 
 # Executive summary
 
-The Track fitness gym, located in Chandrapur, Maharashtra, has struggled with issues that have caused fluctuations in revenue and made it difficult for the gym to achieve its financial goals. This data analysis project aims to identify the root causes of these issues and provide recommendations for improvement through analysis of data on membership demographics, usage patterns, and client feedback. The project aims to provide the gym owner with valuable insights and recommendations for improving retention and increasing revenue.
+The Track fitness gym, located in nagpur, Maharashtra, has struggled with issues that have caused fluctuations in revenue and made it difficult for the gym to achieve its financial goals. This data analysis project aims to identify the root causes of these issues and provide recommendations for improvement through analysis of data on membership demographics, usage patterns, and client feedback. The project aims to provide the gym owner with valuable insights and recommendations for improving retention and increasing revenue.
 
  # Data
 
