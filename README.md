@@ -59,6 +59,6 @@ I ran a simulation of all digital logs, assuming that all 97 flexible clients st
 
 To get a graphical overview of the business data and an overall idea about the analysis, refer to the ppt called "Final Findings.pptx" in the repo.You can also take a look at the files inside of the clean data folder, the files also contains extra sheets inside of them which includes the pivot tables and necessary charts relevant to the analysis.
 
-There 3 python notebook files with names clear enough to dictate what they do.To gain an indepth understanding of the code files, take a look at "The Track Fitness Club Case Memo - 3" inside the "case study" folder in the repo. Before running any of the code files make sure the 3 files inside the "clean data" folder are in the same directory as the code files.
+There 3 python notebook files with names clear enough to dictate what they do.To gain an indepth understanding of the code files, take a look at "The Track Fitness Club Case Memo - 3" inside the "End to End Project Workflow Documentation" folder in the Main repo. Before running any of the code files make sure the 3 files inside the "cleaned data" folder are in the same directory as the code files.
 
 
